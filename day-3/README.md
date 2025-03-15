@@ -38,6 +38,9 @@ A GenAI powered tool that generates optimized Dockerfiles based on programming l
 2. **Install Dependencies**
    ```bash
    pip3 install -r requirements.txt
+
+   for Hostel LLM
+   pip3 install google.generativeai
    ```
 
 3. **Run the Application**
